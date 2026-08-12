@@ -17,7 +17,7 @@ export const scrub = { frameCount: 287, ext: 'webp', heightVh: 720 }
 // Bold statements over the film — no "why/how" labels, just the claim.
 export const heroBeats = [
   { tag: 'LWC Group Marketing', title: 'Your marketing is forgettable.', p: 'Boring photos, random PDFs — gone in seconds. Exactly like your competitors.' },
-  { tag: 'The fix', title: 'So we make you unforgettable.', p: 'We turn your business into a film people can’t stop watching — or sharing.' },
+  { tag: 'The fix', title: 'We make your business unforgettable.', p: 'Impossible to scroll past. Impossible to forget.' },
   { tag: 'Products', title: 'Sell a product?', p: 'We make it look irresistible.' },
   { tag: 'Services', title: 'Offer a service?', p: 'We make it impossible to ignore.' },
   { tag: 'For everyone', title: 'Whatever you sell.', p: 'Product or service — we make you the one they remember.' },
