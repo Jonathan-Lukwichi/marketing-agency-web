@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.vercel
+.DS_Store
+clips/
+master.mp4
+_seg/
